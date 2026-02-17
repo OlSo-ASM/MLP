@@ -12,7 +12,7 @@ cmake .. -DCMAKE_BUILD_TYPE=Release
 cmake --build . --config Release
 ```
 
-#control
+# control
 
 left mouse button - drawing
 right mouse button - erasing
