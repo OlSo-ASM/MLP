@@ -10,3 +10,10 @@ mkdir build
 cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
 cmake --build . --config Release
+```
+
+#control
+
+left mouse button - drawing
+right mouse button - erasing
+delete - cleaning the canvas
